@@ -23,7 +23,7 @@ li {
 
 
 .bg {
-    background-image: url(/Images/Group-1.png);
+    background-image: url("../Images/Group-1.png");
     background-position: left;
     background-repeat: no-repeat;
     background-size: contain;
