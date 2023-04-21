@@ -165,11 +165,3 @@ button {
     margin: 5px 0px;
     text-align: center;
 }
-
-@media only screen and (max-width: 600) {
-    display: grid;
-    grid-template-columns: auto auto;
-    padding-left: 285px;
-    max-width: 800px;
-
-}
