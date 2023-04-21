@@ -21,6 +21,13 @@ li {
     padding-right:0px;
 }
 
+.flex-container {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 125px;
+    color: #8B8B8B;
+    justify-content: space-evenly;
+  }
 
 .bg {
     background-image: url("../Images/Group-1.png");
